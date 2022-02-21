@@ -1,0 +1,24 @@
+{
+  "name": "bpmnhooks",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bpmn-font": "^0.10.0",
+    "bpmn-js": "^8.9.1",
+    "bpmn-js-properties-panel": "^0.46.0",
+    "diagram-js": "^8.1.1",
+    "min-dash": "^3.8.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "tiny-svg": "^2.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.8.0"
+  }
+}
